@@ -29,7 +29,7 @@ Essa é uma conta de testes, onde busco me familiarizar melhor com o Github e o 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alathus&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
 
-  ##### Apoie os meus estudos:
+  ### Apoie os meus estudos:
   
   <a href="https://ko-fi.com/codesphereum"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
   
