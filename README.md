@@ -34,6 +34,6 @@ Essa é uma conta de testes, onde busco me familiarizar melhor com o Github e o 
   <a href="https://ko-fi.com/codesphereum"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
   
 
-  <div align="center">
+
  ![Snake animation](https://github.com/alathus/alathus/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  
